@@ -1,0 +1,6 @@
+---
+applications:
+- name: Email
+  memory: 300M
+  domain: appsdev.mindsphere.io
+  path: build/libs/Email-0.0.1.jar
